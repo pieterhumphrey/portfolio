@@ -15,7 +15,7 @@ Dear DataStax Advice Column ([playlist](https://www.youtube.com/playlist?list=PL
 **Writing**
 <br>
 Marquee Blogs/Opinion Pieces:  
-* [Why a Serverless Data API Might Be Your Next Database]((https://www.infoq.com/articles/serverless-data-api/))  
+* [Why a Serverless Data API Might Be Your Next Database](https://www.infoq.com/articles/serverless-data-api/)  
 * [Why Web3 needs a real time data layer now more than ever](https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/)  
 * [Understanding When to Use RabbitMQ or Apache Kafka](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka)  
 
