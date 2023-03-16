@@ -2,8 +2,8 @@
 Example Works
 
 Collaboration Videos
-Influencer Videos commissioned for the DataStax Developer Channel [youtube playlist](https://www.youtube.com/playlist?list=PL2g2h-wyI4SoSq61ZQC8GeM_i5rOwe2A0)
-2 hour developer workshop: Introduction to Apache Cassandra [joint presentation with DataStax developer advocates](https://www.youtube.com/watch?v=NdLelsjqd9w)
+Influencer Videos commissioned for the DataStax Developer Channel [youtube playlist](https://www.youtube.com/playlist?list=PL2g2h-wyI4SoSq61ZQC8GeM_i5rOwe2A0)  
+2 hour developer workshop: Introduction to Apache Cassandra [joint presentation with DataStax developer advocates](https://www.youtube.com/watch?v=NdLelsjqd9w)  
 
 Solo Videos
 Conference talk example: [SpringOne 2018](https://www.youtube.com/watch?v=V-c12DUOZ74)
