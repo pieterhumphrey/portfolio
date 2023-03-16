@@ -20,7 +20,7 @@ Marquee Blogs/Opinion Pieces:
 * [Understanding When to Use RabbitMQ or Apache Kafka](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka)  
 
 Launch and "How-to" blogs:  
-[Going Driverless with Stargate v2 and the Cloud-Native Apache Cassandra Database](https://www.datastax.com/blog/going-driverless-with-stargate-v2-and-the-cloud-native-apache-cassandra-database)
+[Going Driverless with Stargate v2 and the Cloud-Native Apache Cassandra Database](https://www.datastax.com/blog/going-driverless-with-stargate-v2-and-the-cloud-native-apache-cassandra-database)  
 [Stargate brings Apache Cassandra to the Postman API Network](https://medium.com/building-the-open-data-stack/stargate-brings-apache-cassandra-to-the-postman-api-network-a18d973714b)  
 [Choosing the Right Data API for NoSQL with Apache Cassandra and Postman](https://blog.postman.com/nosql-data-api-apache-cassandra-postman/)  
 [Reacting to Spring Framework 5.0](https://tanzu.vmware.com/content/blog/reacting-to-spring-framework-5-0)  
