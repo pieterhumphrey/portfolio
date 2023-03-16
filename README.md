@@ -12,12 +12,12 @@ Conference talk example: [SpringOne 2018](https://www.youtube.com/watch?v=V-c12D
 Dear DataStax Advice Column ([playlist](https://www.youtube.com/playlist?list=PLm-EPIkBI3YoD1EJSrb-vWgKq4F17SRqT)   
 [5 min explainer and demo](https://www.youtube.com/watch?v=TwxKeu9q1wo): Quine.io streaming graph (a database ecosystem partner)  
 
-**Writing**  
+**Writing**
 <br>
 Marquee Blogs/Opinion Pieces:  
-[Why a Serverless Data API Might Be Your Next Database]((https://www.infoq.com/articles/serverless-data-api/))  
-[Why Web3 needs a real time data layer now more than ever](https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/)  
-[Understanding When to Use RabbitMQ or Apache Kafka](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka)  
+* [Why a Serverless Data API Might Be Your Next Database]((https://www.infoq.com/articles/serverless-data-api/))  
+* [Why Web3 needs a real time data layer now more than ever](https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/)  
+* [Understanding When to Use RabbitMQ or Apache Kafka](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka)  
 <br>
 Launch and "How-to" blogs:  
 [Going Driverless with Stargate v2 and the Cloud-Native Apache Cassandra Database](https://www.datastax.com/blog/going-driverless-with-stargate-v2-and-the-cloud-native-apache-cassandra-database)
