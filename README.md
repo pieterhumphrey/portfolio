@@ -9,7 +9,7 @@ Influencer Videos commissioned for the DataStax Developer Channel [youtube playl
 Conference talk example: [SpringOne 2018](https://www.youtube.com/watch?v=V-c12DUOZ74)  
 [IDE Demo: coding a REST API with Spring](https://www.youtube.com/watch?v=47xNBNd-LLI) (177K+ views from 2017)  
 [Animated Explainer with voiceover example](https://www.youtube.com/watch?v=pfhqDrNZb70)  
-Dear DataStax Advice Column ([playlist](https://www.youtube.com/playlist?list=PLm-EPIkBI3YoD1EJSrb-vWgKq4F17SRqT)   
+Dear DataStax Advice Column [(playlist)](https://www.youtube.com/playlist?list=PLm-EPIkBI3YoD1EJSrb-vWgKq4F17SRqT)   
 [5 min explainer and demo](https://www.youtube.com/watch?v=TwxKeu9q1wo): Quine.io streaming graph (a database ecosystem partner)  
 
 **Writing**
