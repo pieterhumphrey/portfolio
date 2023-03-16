@@ -15,13 +15,13 @@ Dear DataStax Advice Column ([playlist]((https://www.youtube.com/playlist?list=P
 **Writing**  
 Marquee Blogs/Opinion Pieces:  
 [Why a Serverless Data API Might Be Your Next Database]((https://www.infoq.com/articles/serverless-data-api/))  
-[Why Web3 needs a real time data layer now more than ever]((https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/))  
-[Understanding When to Use RabbitMQ or Apache Kafka]([url](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka))  
+[Why Web3 needs a real time data layer now more than ever](https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/)  
+[Understanding When to Use RabbitMQ or Apache Kafka](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka)  
 Launch and "How-to" blogs:  
-[Going Driverless with Stargate v2 and the Cloud-Native Apache Cassandra Database]([url](https://www.datastax.com/blog/going-driverless-with-stargate-v2-and-the-cloud-native-apache-cassandra-database))
-[Stargate brings Apache Cassandra to the Postman API Network]([url](https://medium.com/building-the-open-data-stack/stargate-brings-apache-cassandra-to-the-postman-api-network-a18d973714b))
+[Going Driverless with Stargate v2 and the Cloud-Native Apache Cassandra Database](https://www.datastax.com/blog/going-driverless-with-stargate-v2-and-the-cloud-native-apache-cassandra-database)
+[Stargate brings Apache Cassandra to the Postman API Network](https://medium.com/building-the-open-data-stack/stargate-brings-apache-cassandra-to-the-postman-api-network-a18d973714b)  
 [Choosing the Right Data API for NoSQL with Apache Cassandra and Postman](https://blog.postman.com/nosql-data-api-apache-cassandra-postman/)  
-[Reacting to Spring Framework 5.0](https://tanzu.vmware.com/content/blog/reacting-to-spring-framework-5-0)
+[Reacting to Spring Framework 5.0](https://tanzu.vmware.com/content/blog/reacting-to-spring-framework-5-0)  
 [Getting started with Elastic Cloud, FedRAMP, and AWS GovCloud](https://www.elastic.co/blog/getting-started-with-elastic-cloud-fedramp-and-aws-govcloud)  
 
 **YouTube Channels I managed/helped build**
