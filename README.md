@@ -2,12 +2,12 @@
 Example Works
 
 Collaboration Videos
-Influencer Videos commissioned for the DataStax Developer Channel (youtube playlist)
-2 hour developer workshop: Introduction to Apache Cassandra (joint presentation with DataStax developer advocates)
+Influencer Videos commissioned for the DataStax Developer Channel [youtube playlist](https://www.youtube.com/playlist?list=PL2g2h-wyI4SoSq61ZQC8GeM_i5rOwe2A0)
+2 hour developer workshop: Introduction to Apache Cassandra [joint presentation with DataStax developer advocates](https://www.youtube.com/watch?v=NdLelsjqd9w)
 
 Solo Videos
-Conference talk example: SpringOne 2018
-IDE Demo: coding a REST API with Spring (177K+ views from 2017)
+Conference talk example: [SpringOne 2018](https://www.youtube.com/watch?v=V-c12DUOZ74)
+[IDE Demo: coding a REST API with Spring](https://www.youtube.com/watch?v=47xNBNd-LLI) (177K+ views from 2017)
 Animated Explainer with voiceover example
 Dear DataStax Advice Column (playlist)
 5 min explainer and demo: Quine.io streaming graph (a database ecosystem partner)
