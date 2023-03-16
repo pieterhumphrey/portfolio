@@ -8,14 +8,14 @@ Influencer Videos commissioned for the DataStax Developer Channel [youtube playl
 **Solo Videos**  
 Conference talk example: [SpringOne 2018](https://www.youtube.com/watch?v=V-c12DUOZ74)  
 [IDE Demo: coding a REST API with Spring](https://www.youtube.com/watch?v=47xNBNd-LLI) (177K+ views from 2017)  
-[Animated Explainer with voiceover example]([url](https://www.youtube.com/watch?v=pfhqDrNZb70))  
-Dear DataStax Advice Column ([playlist]([url](https://www.youtube.com/playlist?list=PLm-EPIkBI3YoD1EJSrb-vWgKq4F17SRqT)))  
-[5 min explainer and demo]([url](https://www.youtube.com/watch?v=TwxKeu9q1wo)): Quine.io streaming graph (a database ecosystem partner)  
+[Animated Explainer with voiceover example]((https://www.youtube.com/watch?v=pfhqDrNZb70))  
+Dear DataStax Advice Column ([playlist]((https://www.youtube.com/playlist?list=PLm-EPIkBI3YoD1EJSrb-vWgKq4F17SRqT)))  
+[5 min explainer and demo]((https://www.youtube.com/watch?v=TwxKeu9q1wo)): Quine.io streaming graph (a database ecosystem partner)  
 
 **Writing**  
 Marquee Blogs/Opinion Pieces:  
-[Why a Serverless Data API Might Be Your Next Database]([url](https://www.infoq.com/articles/serverless-data-api/))  
-[Why Web3 needs a real time data layer now more than ever]([url](https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/))  
+[Why a Serverless Data API Might Be Your Next Database]((https://www.infoq.com/articles/serverless-data-api/))  
+[Why Web3 needs a real time data layer now more than ever]((https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/))  
 [Understanding When to Use RabbitMQ or Apache Kafka]([url](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka))  
 Launch and "How-to" blogs:  
 [Going Driverless with Stargate v2 and the Cloud-Native Apache Cassandra Database]([url](https://www.datastax.com/blog/going-driverless-with-stargate-v2-and-the-cloud-native-apache-cassandra-database))
